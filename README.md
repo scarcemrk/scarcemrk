@@ -14,4 +14,3 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=scarcemrk&show_icons=true&theme=tokyonight)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=scarcemrk&theme=tokyonight)
-<> (![](https://github-readme-stats.vercel.app/api/top-langs/?username=scarcemrk&layout=compact&theme=tokyonight))
