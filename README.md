@@ -21,7 +21,5 @@
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=scarcemrk&theme=github_dark)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=scarcemrk&theme=github-dark">
-
-
+![](https://github-readme-stats.vercel.app/api?username=scarcemrk&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=scarcemrk&theme=tokyonight">
