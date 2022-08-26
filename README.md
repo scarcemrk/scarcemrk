@@ -1,5 +1,5 @@
 # <p align="center"> Hi 👋, I'm Karan Bharda <br> <img src="https://komarev.com/ghpvc/?username=scarcemrk&label=Profile%20views&color=0e75b6&style=flat" alt="scarcemrk" /></p>
-<img align="center" alt="Coding" width="250" src="https://media2.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif?cid=ecf05e47b9f1yt0ubwckwjbk7yfek4yjnpb950ti408xpfzl&rid=giphy.gif&ct=s">
+<img align="right" alt="Coding" width="275" src="https://media.giphy.com/media/cID9NShVKKjHs5ygCP/giphy.gif">
 
 - 🔭 I’m currently working on **My Personal site**
 
