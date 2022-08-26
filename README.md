@@ -1,5 +1,4 @@
-# <p align="center"> Hi 👋, I'm Karan Bharda </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=scarcemrk&label=Profile%20views&color=0e75b6&style=flat" alt="scarcemrk" /> </p>
+# <p align="center"> Hi 👋, I'm Karan Bharda <br> <img src="https://komarev.com/ghpvc/?username=scarcemrk&label=Profile%20views&color=0e75b6&style=flat" alt="scarcemrk" /></p>
 <img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.gif">
 
 - 🔭 I’m currently working on **My Personal site**
