@@ -1,7 +1,7 @@
 # <p align="center"> Hi 👋, I'm Karan Bharda </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=scarcemrk&label=Profile%20views&color=0e75b6&style=flat" alt="scarcemrk" /> </p>
 
-<!-- - 🔭 I’m currently working on **Password Manager** -->
+- 🔭 I’m currently working on **My Personal site**
 
 - 🌱 I’m currently learning **Python**
 
