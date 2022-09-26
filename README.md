@@ -30,5 +30,5 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=scarcemrk&theme=tokyonight)
-![](https://github-readme-streak-stats.herokuapp.com/?user=scarcemrk&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=scarcemrk&theme=tokyonight&border_radius=4)
+![](https://github-readme-streak-stats.herokuapp.com/?user=scarcemrk&theme=tokyonight&hide_border=true)
