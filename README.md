@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Cyber Security, Bug bounty**
+- 💬 Ask me about **Nothing**
 
 - 📫 How to reach me **scarcemrk@proton.me**
 
