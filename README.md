@@ -2,11 +2,11 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=scarcemrk&label=Profile%20views&color=0e75b6&style=flat" alt="scarcemrk" /> </p>
 <img align="right" alt="Coding" width="275" src="https://media.giphy.com/media/cID9NShVKKjHs5ygCP/giphy.gif">
 
-- 🔭 I’m currently working on **Mini Projects**
+- 🔭 I’m currently focusing on **Collage Studies**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Bug Hunting**
 
-- 💬 Ask me about **Nothing**
+<!-- - 💬 Ask me about **** -->
 
 - 📫 How to reach me **scarcemrk@proton.me**
 
