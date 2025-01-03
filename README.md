@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Web3 🔗**
 
-- 📫 How to reach me **scarcemrk@proton.me**
+- 📫 How to reach me **karanbharada122@gmail.com**
 
 <!-- https://github.com/Ileriayo/markdown-badges all badges -->
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
